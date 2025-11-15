@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+- Complete the ALX GitHub tasks.
+- Learn to use git commands (clone, commit, push).
+- Finish midterm exam preparation.
+
