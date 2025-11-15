@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is Blen Abebaw. I am a student learning Git and GitHub for the first time. I am excited to build projects and collaborate with others online.
+
+I am interested in data science. This repository will help me practice version control and GitHub workflows.
